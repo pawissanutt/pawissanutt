@@ -1,4 +1,4 @@
-### Hi, I’m Pawissanutt aka Wis.
+### Hi, I’m Pawissanutt (Wis) 👋
 🎓 **Ph.D. Candidate in Computer Science and Engineering** at the **University of North Texas** (Graduating December 2025)
 
 ☁️ I’m passionate about **cloud and serverless computing**, with a research focus on designing and optimizing **scalable distributed systems** that simplify development and improve performance.
@@ -9,7 +9,7 @@
 
 ---
 
-### My Key Projects & Publications
+### 🔬 My Key Projects & Publications
 
 #### **Object-as-a-Service (OaaS)**
 
