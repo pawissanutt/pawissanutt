@@ -6,8 +6,16 @@
 
 ### My Key Projects & Publications
 
-I am the lead researcher on the [**Object-as-a-Service (OaaS)**](https://github.com/hpcclab/OaaS), a novel, serverless paradigm that streamlines cloud-native development by encapsulating business logic, data, and requirements into a single object abstraction.
-* **Publication:** [Object as a Service (OaaS): Enabling object abstraction in serverless clouds](https://ieeexplore.ieee.org/abstract/document/10254994) (IEEE CLOUD 2023\)  
-* **Publication:** [Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction](https://doi.org/10.1109/TC.2025.3623602) (IEEE Transactions on Computers 2025\)
+#### **Object-as-a-Service (OaaS)**
 
-I also lead the research and development on the [**OaaS-IoT**](https://github.com/hpcclab/OaaS-IoT), a re-architecture of the OaaS paradigm specifically for edge-cloud applications. This extension manages function placement, service connectivity and data consistency to improve application responsiveness for IoT workloads.
+A novel serverless paradigm that encapsulates business logic, data, and requirements into a unified **object abstraction**, streamlining cloud-native development.
+
+* 📘 *[Object as a Service (OaaS): Enabling Object Abstraction in Serverless Clouds](https://ieeexplore.ieee.org/abstract/document/10254994)* — *IEEE CLOUD 2023*
+* 📗 *[Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction](https://doi.org/10.1109/TC.2025.3623602)* — *IEEE Transactions on Computers, 2025*
+* 💡 GitHub: [hpcclab/OaaS](https://github.com/hpcclab/OaaS)
+
+#### **OaaS-IoT**
+
+An **edge-cloud re-architecture** of OaaS designed for **IoT workloads**, focusing on intelligent function placement, service connectivity, and data consistency to enhance responsiveness in distributed environments.
+
+* 💡 GitHub: [hpcclab/OaaS-IoT](https://github.com/hpcclab/OaaS-IoT)
