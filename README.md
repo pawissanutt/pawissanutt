@@ -10,4 +10,4 @@ I am the lead researcher on the [**Object-as-a-Service (OaaS)**](https://github.
 * **Publication:** [Object as a Service (OaaS): Enabling object abstraction in serverless clouds](https://ieeexplore.ieee.org/abstract/document/10254994) (IEEE CLOUD 2023\)  
 * **Publication:** [Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction](https://doi.org/10.1109/TC.2025.3623602) (IEEE Transactions on Computers 2025\)
 
-I am also a contributor to [**OaaS-IoT**](https://github.com/hpcclab/OaaS-IoT), a re-architecture of the OaaS paradigm specifically for edge-cloud applications. This extension manages function placement, service connectivity and data consistency to improve application responsiveness for IoT workloads.
+I also lead the research and development on the [**OaaS-IoT**](https://github.com/hpcclab/OaaS-IoT), a re-architecture of the OaaS paradigm specifically for edge-cloud applications. This extension manages function placement, service connectivity and data consistency to improve application responsiveness for IoT workloads.
